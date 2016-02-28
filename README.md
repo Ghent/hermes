@@ -23,7 +23,7 @@ A bot that interfaces with various chat programs to announce when streamers star
   * - [ ] [Slack](https://slack.com)
 * Inputs:
   * - [ ] [GitHub](https://github.com)
-  * - [ ] [Youtube Live](https://gaming.youtube.com/live)
+  * - [ ] [Youtube Gaming Live](https://gaming.youtube.com/live)
   * - [ ] [HitBox](https://www.hitbox.tv)
   * - [ ] [Beam.pro](https://beam.pro)
 
