@@ -7,24 +7,25 @@ A bot that interfaces with various chat programs to announce when streamers star
 ## Requirements
 * Python 3.5
 * [daemonocle](https://github.com/jnrbsn/daemonocle)
+* [ruamel.yaml](https://pypi.python.org/pypi/ruamel.yaml)
+
+## Optional
 * [discord.py](https://github.com/Rapptz/discord.py)
-* asyncio
 
 ## Features
-###
 * Output
-  * Discord
+  * - [x] [Discord](https://www.discordapp.com)
 * Input
-  * Twitch
+  * - [x] [Twitch](https://www.twitch.tv/)
 
 ## Planned Features
 * Outputs:
-  * - [ ] Slack
+  * - [ ] [Slack](https://slack.com)
 * Inputs:
-  * - [ ] GitHub
-  * - [ ] Youtube Live
-  * - [ ] HitBox
-  * - [ ] Beam.pro
+  * - [ ] [GitHub](https://github.com)
+  * - [ ] [Youtube Live](https://gaming.youtube.com/live)
+  * - [ ] [HitBox](https://www.hitbox.tv)
+  * - [ ] [Beam.pro](https://beam.pro)
 
 ## Notes
 * *This project is a work in progress, please be patient.*
