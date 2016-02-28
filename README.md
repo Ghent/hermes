@@ -1,5 +1,5 @@
 # hermes
-Stream announcement bot for various chat programs.
+Announcement bot for various chat programs.
 
 ## Purpose
 A bot that interfaces with various chat programs to announce when streamers start and stop streaming.
@@ -21,6 +21,7 @@ A bot that interfaces with various chat programs to announce when streamers star
 * Outputs:
   * - [ ] Slack
 * Inputs:
+  * - [ ] GitHub
   * - [ ] Youtube Live
   * - [ ] HitBox
   * - [ ] Beam.pro
